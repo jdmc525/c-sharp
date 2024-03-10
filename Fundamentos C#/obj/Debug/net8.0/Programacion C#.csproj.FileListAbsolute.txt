@@ -1,0 +1,28 @@
+C:\Users\Daniel\Documents\Programacion C#\bin\Debug\net8.0\Programacion C#.exe
+C:\Users\Daniel\Documents\Programacion C#\bin\Debug\net8.0\Programacion C#.deps.json
+C:\Users\Daniel\Documents\Programacion C#\bin\Debug\net8.0\Programacion C#.runtimeconfig.json
+C:\Users\Daniel\Documents\Programacion C#\bin\Debug\net8.0\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\bin\Debug\net8.0\Programacion C#.pdb
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\refint\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.pdb
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\Programacion C#.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Programacion C#\obj\Debug\net8.0\ref\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\bin\Debug\net8.0\Programacion C#.exe
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\bin\Debug\net8.0\Programacion C#.deps.json
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\bin\Debug\net8.0\Programacion C#.runtimeconfig.json
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\bin\Debug\net8.0\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\bin\Debug\net8.0\Programacion C#.pdb
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\refint\Programacion C#.dll
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.pdb
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\Programacion C#.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Programacion C#\Fundamentos C#\obj\Debug\net8.0\ref\Programacion C#.dll
